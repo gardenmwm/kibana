@@ -1,5 +1,7 @@
 # Kibana
 
+### This is for a read only version of kibana that does not let users save or load dashboards
+
 __NOTE__: You have reached the Kibana 3 repository.
 Kibana 3 is a completely new version of Kibana written entirely in HTML and Javascript. You can find
 the Kibana 2 repository at [https://github.com/rashidkpc/Kibana](https://github.com/rashidkpc/Kibana)
